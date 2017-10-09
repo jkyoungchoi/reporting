@@ -1,0 +1,14 @@
+.bcTmp{background-color:darkslategray;}
+.title-color{color: #dbc400;}
+.listTitleColor{color: #564e09;}
+.rowPadding{padding: 30px 0px;}
+#custom-table {
+    width:100%;
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+#custom-table th, #custom-table td {
+    border: 1px solid black;
+    width: auto !important;
+}
